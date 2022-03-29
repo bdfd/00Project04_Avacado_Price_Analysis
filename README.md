@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-02-23 12:26:35
+ * @LastEditTime: 2022-03-29 16:47:01
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \3.3-DS_Project_Template\README.md
+ * @FilePath: \Project04_Avacado_Price_Analysis-Kaggle\README.md
 -->
 
 # 3.3-DS_Project_Template
@@ -15,14 +15,14 @@ Person Side Project Portfolio. Also included a few resources on side that I foun
 Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![ViewCount](https://views.whatilearened.today/views/github/bdfd/Project04_Avacado_Price_Analysis-Kaggle.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
+
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project_Name{Github})[![View My Profile]
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Project04_Avacado_Price_Analysis-Kaggle[![View My Profile]]
 
 <br><br>
 
