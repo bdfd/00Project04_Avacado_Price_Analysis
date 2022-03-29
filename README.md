@@ -1,32 +1,23 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-03-29 16:47:01
+ * @LastEditTime: 2022-03-29 17:28:45
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Project04_Avacado_Price_Analysis-Kaggle\README.md
 -->
 
-# 3.3-DS_Project_Template
-
-Descritpion Template
-Person Side Project Portfolio. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Avacado Price Analysis Kaggle
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/bdfd/Project04_Avacado_Price_Analysis-Kaggle.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
-
-<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Project04_Avacado_Price_Analysis-Kaggle[![View My Profile]]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
 
-<br><br>
-
-## Applied Learning Project
+## Data Science Benginner Project
 
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 
@@ -34,22 +25,22 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Libraries:** Pandas, NumPy
 
-**Projects:** ABC Project Name
+**Projects:** Avacado Price Analysis
 
-> Problem statement :
+> **Problem statement : Avacado Price Analysis**
+> Avocado is a fruit consumed by people heavily in the United States.
+> This data was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV.
+> The table below represents weekly 2018 retail scan data for National retail volume (units) and price. Retail scan data comes directly from retailers’ cash registers based on actual retail sales of Hass avocados.
+> Starting in 2013, the table below reflects an expanded, multi-outlet retail data set. Multi-outlet reporting includes an aggregation of the following channels: grocery, mass, club, drug, dollar and military. The Average Price (of avocados) in the table reflects a per unit (per avocado) cost, even when multiple units (avocados) are sold in bags.
+> The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. greenskins) are not included in this table.
 
-- Predict the percentage of an student based on the no. of study hours. <br>
-- This is a simple linear regression task as it involves just 2 variables.<br>
-- You can use R, Python, SAS Enterprise Miner or any other tool.<br>
-- What will be predicted score if a student studies for 9.25 hrs/ day? <br>
-- Here is the dataset :
-  <a href="Dataset Url">Dataset.csv</a><br><br>
-  > Solution:
-  > <a href="Jupyter Notebook Url"> Prediction using Supervised ML</a>
-  > Demo:
-  > <a href="Youtube Link">Prediction using Supervised ML</a>
+Dateset:<a href="Dataset Url">Dataset.csv</a>
 
-<br><br>
+<!-- Solution:<a href="Jupyter Notebook Url">Jupyter Notebook/Colab Link</a> -->
+<!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
+<!-- Reference:
+- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
+- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a> -->
 
 <div align="center">
 
