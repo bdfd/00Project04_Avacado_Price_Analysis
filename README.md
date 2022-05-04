@@ -13,7 +13,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/bdfd/Project04_Avacado_Price_Analysis-Kaggle.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/bdfd/Project04_Avacado_Price_Analysis-Kaggle?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
+<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 <!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
 
