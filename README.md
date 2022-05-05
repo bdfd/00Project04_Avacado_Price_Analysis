@@ -29,7 +29,7 @@
 
 **Projects:** Avacado Price Analysis
 
-> **Problem statement : Avacado Price Analysis**  
+> **Problem statement**  
 > Avocado is a fruit consumed by people heavily in the United States.  
 > This data was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV.  
 > The table below represents weekly 2018 retail scan data for National retail volume (units) and price. Retail scan data comes directly from retailers’ cash registers based on actual retail sales of Hass avocados.  
