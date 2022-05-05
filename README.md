@@ -23,6 +23,10 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub,
 
+**Algorithm:** None
+
+**Purpose:** Data Cleaning, Data Visualization
+
 **Libraries:** Pandas, NumPy
 
 **Projects:** Avacado Price Analysis
