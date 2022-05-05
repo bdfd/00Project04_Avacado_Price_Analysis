@@ -38,7 +38,7 @@
 
 Reference:  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
-Solution:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
+Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
 - <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
