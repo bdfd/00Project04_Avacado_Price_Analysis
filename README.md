@@ -37,7 +37,7 @@
 > The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. greenskins) are not included in this table.
 
 **Reference:** 
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
+Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project01_Avacado_Price/main/dataset/Avocado.csv">Dataset.csv</a>  
 Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
 <!-- Reference:
