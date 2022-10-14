@@ -29,7 +29,7 @@
 > Starting in 2013, the table below reflects an expanded, multi-outlet retail data set. Multi-outlet reporting includes an aggregation of the following channels: grocery, mass, club, drug, dollar and military. The Average Price (of avocados) in the table reflects a per unit (per avocado) cost, even when multiple units (avocados) are sold in bags.  
 > The Product Lookup codes (PLU’s) in the table are only for Hass avocados. Other varieties of avocados (e.g. greenskins) are not included in this table.
 
-**Reference:** 
+**Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project01_Avacado_Price/main/dataset/Avocado.csv">Dataset.csv</a>  
 Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
 <!-- Demo:<a href="Youtube Link">Demo Website Link</a> -->
