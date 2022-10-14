@@ -1,12 +1,3 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-02-23 11:32:47
- * @LastEditTime: 2022-03-29 17:31:19
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \Project04_Avacado_Price_Analysis-Kaggle\README.md
--->
-
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Avacado Price Analysis
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
@@ -21,9 +12,11 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub,
 
-**Algorithm:** None
+**Algorithm Category:** Regression
 
-**Purpose:** Data Cleaning, Data Visualization
+**Purpose:** Data Cleaning, Apply Algorithm
+
+**Algorithm:** None
 
 **Libraries:** Pandas, NumPy
 
